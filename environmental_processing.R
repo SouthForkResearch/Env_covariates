@@ -1,5 +1,5 @@
 #This script processes NOAA environmental data to be merged with stream temperature data and other coavariates 
-#for modeling (https://gis.ncdc.noaa.gov/maps/ncei/summaries/daily).  The most central site 
+#for modelling (https://gis.ncdc.noaa.gov/maps/ncei/summaries/daily).  The most central site 
 #to the watershed contianing variables of interest is chosen. At times, multiple sites must 
 #be used to find all variables. 
 
