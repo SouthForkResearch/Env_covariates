@@ -1,5 +1,5 @@
 #This script processes USGS stream gage data to be merged with stream temperature data and coavariates 
-#for modeling (https://waterdata.usgs.gov/nwis/rt).  The most downstream gage is generally 
+#for modelling (https://waterdata.usgs.gov/nwis/rt).  The most downstream gage is generally 
 #chosen to provide information for discharge in a watershed.  Care should be taken to ensure that discharge  at other locations in watershed correlates 
 #with chosen gae before utilizing gage to represent whole watershed.    
 
